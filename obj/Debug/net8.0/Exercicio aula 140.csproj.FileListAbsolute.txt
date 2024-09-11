@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\Exercicio aula 140\bin\Debug\net8.0\Exercicio aula 140.exe
+C:\Users\joaov\source\repos\Exercicio aula 140\bin\Debug\net8.0\Exercicio aula 140.deps.json
+C:\Users\joaov\source\repos\Exercicio aula 140\bin\Debug\net8.0\Exercicio aula 140.runtimeconfig.json
+C:\Users\joaov\source\repos\Exercicio aula 140\bin\Debug\net8.0\Exercicio aula 140.dll
+C:\Users\joaov\source\repos\Exercicio aula 140\bin\Debug\net8.0\Exercicio aula 140.pdb
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.dll
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\refint\Exercicio aula 140.dll
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.pdb
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\Exercicio aula 140.genruntimeconfig.cache
+C:\Users\joaov\source\repos\Exercicio aula 140\obj\Debug\net8.0\ref\Exercicio aula 140.dll
